@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/google/docsy-example.git"
+    "url": "git+https://github.com/bluesky2106/documents.git"
   },
-  "author": "",
+  "author": "Nguyen Hoai Phuong",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/google/docsy-example/issues"
+    "url": "https://github.com/bluesky2106/documents/issues"
   },
-  "homepage": "https://github.com/google/docsy-example#readme",
+  "homepage": "https://github.com/bluesky2106/documents#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.0",
     "postcss": "^8.3.7",
