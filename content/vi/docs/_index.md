@@ -1,7 +1,7 @@
 
 ---
-title: "Documentation"
-linkTitle: "Documentation"
+title: "Programming"
+linkTitle: "Programming"
 weight: 20
 menu:
   main:
@@ -9,7 +9,7 @@ menu:
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+Thế giới lập trình viên bao la rộng lớn và lập trình viên mỗi ngày như đang chèo một con thuyền nhỏ lênh đênh giữa đại dương kiến thức mênh mông. Thành công nào mà không phải trải qua thử thách ? Nỗ lực vượt lên sẽ đưa chúng ta đến bến bờ mà chúng ta hằng mong ước.
 {{% /pageinfo %}}
 
 

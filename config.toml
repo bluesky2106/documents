@@ -2,8 +2,8 @@ baseURL = "/"
 title = "Goldydocs"
 
 # Language settings
-contentDir = "content/en"
-defaultContentLanguage = "en"
+contentDir = "content/vi"
+defaultContentLanguage = "vi"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
@@ -57,15 +57,7 @@ anchor = "smart"
 id = "UA-00000000-0"
 
 # Language configuration
-
 [languages]
-[languages.en]
-title = "HobbyDocs"
-description = "Hobby Document Website"
-languageName ="English"
-# Weight used for sorting.
-weight = 1
-
 [languages.vi]
 title = "HobbyDocs"
 description = "Trang web ghi chú các tài liệu đã học"
@@ -73,6 +65,15 @@ languageName ="Vietnamese"
 contentDir = "content/vi"
 time_format_default = "01.02.2006"
 time_format_blog = "01.02.2006"
+# Weight used for sorting.
+weight = 1
+
+[languages.en]
+title = "HobbyDocs"
+description = "Hobby Document Website"
+languageName ="English"
+contentDir = "content/en"
+weight = 2
 
 [markup]
   [markup.goldmark]
