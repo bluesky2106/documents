@@ -2,17 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/docs/overview/</loc>
-    <lastmod>2023-03-17T12:06:42+07:00</lastmod>
+    <loc>/docs/languages/golang/</loc>
+  </url><url>
+    <loc>/docs/languages/</loc>
+  </url><url>
+    <loc>/docs/databases/sql-db/</loc>
+  </url><url>
+    <loc>/docs/databases/</loc>
+  </url><url>
+    <loc>/docs/databases/nosql-db/</loc>
+  </url><url>
+    <loc>/docs/languages/python/</loc>
+  </url><url>
+    <loc>/docs/databases/graph-db/</loc>
+  </url><url>
+    <loc>/docs/languages/nodejs/</loc>
+  </url><url>
+    <loc>/docs/</loc>
+    <lastmod>2023-03-20T12:07:45+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/docs/overview/"
+                href="/en/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/docs/overview/"
+                href="/docs/"
                 />
   </url><url>
     <loc>/blog/news/</loc>
@@ -26,19 +42,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="/blog/news/"
-                />
-  </url><url>
-    <loc>/docs/</loc>
-    <lastmod>2023-03-17T12:06:42+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/docs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/docs/"
                 />
   </url><url>
     <loc>/blog/releases/</loc>
@@ -94,7 +97,7 @@
                 />
   </url><url>
     <loc>/about/</loc>
-    <lastmod>2023-03-17T12:06:42+07:00</lastmod>
+    <lastmod>2023-03-20T12:07:45+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -107,6 +110,7 @@
                 />
   </url><url>
     <loc>/community/</loc>
+    <lastmod>2023-03-20T12:07:45+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -119,7 +123,7 @@
                 />
   </url><url>
     <loc>/blog/</loc>
-    <lastmod>2023-03-17T12:06:42+07:00</lastmod>
+    <lastmod>2023-03-20T12:07:45+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -144,7 +148,7 @@
                 />
   </url><url>
     <loc>/</loc>
-    <lastmod>2023-03-17T12:06:42+07:00</lastmod>
+    <lastmod>2023-03-20T12:07:45+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
