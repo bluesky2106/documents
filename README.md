@@ -4,10 +4,10 @@ This is a static website which programmed by using hugo framework. Also Docsy th
 
 Following websites might be useful somehow for gaining knowledges about hugo and Docsy theme.
 
-- [Docsy user guide]: https://docsy.dev/docs
-- [Docsy]: https://github.com/google/docsy
-- [example.docsy.dev]: https://example.docsy.dev
-- [Hugo theme module]: https://gohugo.io/hugo-modules/use-modules/#use-a-module-for-a-theme
+- [Docsy user guide](https://docsy.dev/docs)
+- [Docsy](https://github.com/google/docsy)
+- [example.docsy.dev](https://example.docsy.dev)
+- [Hugo theme module](https://gohugo.io/hugo-modules/use-modules/#use-a-module-for-a-theme)
 
 ## How to run website locally
 
@@ -30,3 +30,5 @@ https://console.cloud.google.com/
 Since github action is also configured, the deployment will be triggered automatically once a new commit comes to master branch.
 
 The url of the website is https://hobbydoc.nextai.world
+
+For more information regarding to Hosting & Deployment hugo website onto firebase, please refer to [Host on Firebase](https://gohugo.io/hosting-and-deployment/hosting-on-firebase/)
