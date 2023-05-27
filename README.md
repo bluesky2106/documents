@@ -27,7 +27,7 @@ https://console.firebase.google.com/
 
 https://console.cloud.google.com/
 
-Since github action is also configured, the deployment will be triggered automatically once a new commit comes to master branch.
+Since github action is also configured, the deployment will be triggered automatically once a new commit comes to master branch. However, before commiting changes onto github repo, remember to run command ```hugo``` in order to generate static contents in directory **public**.
 
 The url of the website is https://hobbydoc.nextai.world
 
