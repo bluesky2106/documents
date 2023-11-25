@@ -86,5 +86,5 @@ Hiện có không ít tổ chức và nhà khoa học đang thúc đẩy những
 
 ## Tiếp theo
 
-* [Machine Learning](/docs/machinelearning/): Get started with machine learning
-* [Deep Learning](/docs/deeplearning/): Get started with deep learning
+* [Machine Learning](/programming/machinelearning/): Get started with machine learning
+* [Deep Learning](/programming/deeplearning/): Get started with deep learning
